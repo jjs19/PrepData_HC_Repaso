@@ -4,7 +4,7 @@
 def DividirDosNumeros(dividendo, divisor):
     '''
     Esta función devuelve dos valores, la parte entera de la división y su resto
-    Recibe dos argumentos:
+    Recibe dos argumentos: hola 
         dividendo: El número que va a ser dividido
         divisor: El número que va a dividir
     Ej:
